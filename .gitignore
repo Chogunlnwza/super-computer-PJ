@@ -1,0 +1,12 @@
+# ห้ามเอาโฟลเดอร์ Library ขึ้นเด็ดขาด
+node_modules/
+venv/
+env/
+
+# ห้ามเอาไฟล์ระบบหรือไฟล์ที่แอบสร้างตอนรันขึ้น
+.next/
+__pycache__/
+
+# ไฟล์ขยะของ Mac/Windows
+.DS_Store
+Thumbs.db

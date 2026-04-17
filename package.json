@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-three/fiber": "^9.5.0",
+    "lucide-react": "^0.576.0",
+    "plotly.js": "^3.4.0",
+    "three": "^0.183.2"
+  }
+}
