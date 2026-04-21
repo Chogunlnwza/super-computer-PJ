@@ -48,16 +48,7 @@ super-computer-PJ-main/
 
 # 🚀 วิธีรันโปรเจค (Step-by-step)
 
-## 🔹 1. Clone โปรเจค
-
-```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd super-computer-PJ-main
-```
-
----
-
-## 🔹 2. รัน Backend (FastAPI)
+## 🔹 1. รัน Backend (FastAPI)
 
 เปิด Terminal
 
@@ -99,7 +90,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔹 3. รัน Frontend (Next.js)
+## 🔹 2. รัน Frontend (Next.js)
 
 เปิด Terminal ใหม่
 
