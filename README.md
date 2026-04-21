@@ -99,31 +99,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔹 3. รัน Worker Node
-
-เปิด Terminal ใหม่
-
-```
-cd worker
-```
-
-ติดตั้ง dependency
-
-```
-pip install requests
-```
-
-รัน worker
-
-```
-python worker.py
-```
-
-💡 สามารถเปิดหลาย worker ได้เพื่อจำลอง supercomputer
-
----
-
-## 🔹 4. รัน Frontend (Next.js)
+## 🔹 3. รัน Frontend (Next.js)
 
 เปิด Terminal ใหม่
 
