@@ -1,3 +1,11 @@
+<div align="center">
+<a href="#ภาษาไทย">ภาษาไทย</a>
+</div>
+
+---
+
+<h2 id="ภาษาไทย">ภาษาไทย</h2>
+
 # 🌩️ Supercomputer Weather Prediction System
 
 โปรเจคนี้เป็นการจำลองระบบ **Distributed Supercomputer** สำหรับพยากรณ์อากาศ
